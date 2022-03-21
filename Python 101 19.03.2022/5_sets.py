@@ -17,4 +17,5 @@ liste = set(liste)
 kume2 = {1,2}
 for i in range(5):
     kume2.add(i)
-    print(kume2)
+
+print(kume2)
