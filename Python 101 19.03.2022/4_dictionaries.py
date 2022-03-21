@@ -1,6 +1,6 @@
 # Dictionary Sözlükler 
 
-import xdrlib
+
 
 
 sozluk = {}
